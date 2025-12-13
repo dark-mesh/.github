@@ -1,2 +1,2 @@
-# .github
-The Official Introduction of DarkMesh
+# DarkMesh Fundamentals
+The Official Fundamentals of DarkMesh
