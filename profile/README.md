@@ -31,8 +31,8 @@ All seats are currently empty.
 
 DarkMesh operates with explicit rules and expectations designed to preserve autonomy, clarity, and long-term trust.
 
-- [Governance](GOVERNANCE.md)
-- [Contributing](CONTRIBUTING.md)
+- [Governance](../GOVERNANCE.md)
+- [Contributing](../CONTRIBUTING.md)
 
 ---
 
